@@ -1,0 +1,22 @@
+	git status:
+		mostra o status dos arquivos.
+		
+		pode ser:
+			modified - quando um arquivo existente sofreu modificações.
+			
+			untracked - novos arquivos criados que ainda não estão sendo monitorados pqlo git.
+			
+			deleted - quando um arquivo existente foi deletado.
+			
+	git add:
+		adiciona o arquivo ao stage.
+			stage é onde os arquivos estão aptos a receberem os commits.
+			
+		pode ser feito de duas maneiras:
+			git add .
+				adiciona todos os arquivos manipulados ao stage de uma só vez.
+				
+			git add 'nome_do_arquivo'
+				adiciona o arquivo especificado.
+				É uma boa opção para quando precisa salvar commits específicos para cada arquivo
+	

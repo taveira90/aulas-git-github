@@ -1,0 +1,7 @@
+
+	O comando git log:
+		mostra o log de commits de forma detalhada.
+	
+	O comando git log --oneline:
+		mostra o log de commits de forma reduzida.
+
