@@ -1,0 +1,9 @@
+ESSA AÇÃO É ALTAMENTE DESTRUTIVA.
+ELA SOBRESCREVE TOTALMENTE O HISTÓRICO, ENTÃO SÓ A USE SE REALMENTE FOR NECESSÁRIO E SE SOUBER O QUE ESTÁ FAZENDO
+
+
+    git log --oneline
+        escolha o número do commit da versão para a qual quer voltar e sobrescrever o que foi feito depois dela.
+
+    git reset --hard número_do_commit
+        isso sobrescreve todo o histórico. Deixando apenas o que foi salvo até a versão escolhida
