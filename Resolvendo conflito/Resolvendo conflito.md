@@ -20,7 +20,7 @@
             <br><br><br>
             No caso do VsCode, ele já traz uma marcação mostrando as duas alterações, e cabe a nós decidir qual delas deve ser mantida.
             <br>
-            No exemplo da imagem são apenas duas linhas, então apaguei a que não queria e salvei.
+            No exemplo da imagem são apenas duas linhas, então apaguei a que não queria e salvei o arquivo novamente.
             <img src="conflito marcado no vscode.png" alt="">
             <br>
         </p>
