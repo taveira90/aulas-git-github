@@ -16,7 +16,7 @@
             A primeira intenção que vem a cabeça é dar um git pull origin main, porém isso não ira funcionar,e irá retornar uma mensagem de erro:
             <img src="mensagem de erro git pull origin main.png" alt="">
             <br>
-            Diz que o merge não funcionou pois há conflitos que precisam ser resolvido primeiro.
+            Diz que o merge não funcionou pois há conflitos que precisam ser resolvidos primeiro.
             <br><br><br>
             No caso do VsCode, ele já traz uma marcação mostrando as duas alterações, e cabe a nós decidir qual delas deve ser mantida.
             <br>
